@@ -1,0 +1,26 @@
+.All-Form {
+    width: 179px;
+    margin: 100px auto;
+    background-color: #121286;
+    padding: 50px 50px;
+    height: 200px;
+    border-radius: 20px;
+}
+
+.input-name {
+    margin-bottom: 10px;
+}
+
+input {
+    height: 25px;
+}
+
+.surname-input {
+    margin-bottom: 100px;
+}
+
+.button {
+    width: 160px;
+    background-color: #5151f6;
+    color: white;
+}
